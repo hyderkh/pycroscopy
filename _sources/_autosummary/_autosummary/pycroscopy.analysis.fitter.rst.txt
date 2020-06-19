@@ -1,0 +1,29 @@
+pycroscopy.analysis.fitter
+==========================
+
+.. automodule:: pycroscopy.analysis.fitter
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Fitter
+   
+   
+
+   
+   
+   
+
+
+

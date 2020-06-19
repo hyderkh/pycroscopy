@@ -1,0 +1,29 @@
+pycroscopy.analysis.giv\_bayesian
+=================================
+
+.. automodule:: pycroscopy.analysis.giv_bayesian
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GIVBayesian
+   
+   
+
+   
+   
+   
+
+
+

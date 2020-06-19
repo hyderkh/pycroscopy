@@ -1,0 +1,38 @@
+pycroscopy.analysis.be\_sho\_fitter
+===================================
+
+.. automodule:: pycroscopy.analysis.be_sho_fitter
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      complex_gaussian
+      wavelet_peaks
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BESHOfitter
+      SHOFitFunc
+      SHOGuessFunc
+   
+   
+
+   
+   
+   
+
+
+
